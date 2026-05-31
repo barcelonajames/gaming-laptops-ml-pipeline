@@ -3,6 +3,7 @@
 
 A complete data science pipeline built on 614 Amazon gaming laptop and PC listings scraped in Q1 2026. The project runs the full stack: exploratory analysis, data cleaning, feature engineering, NLP spec extraction, zero-shot classification via Claude Haiku, supervised ML (regression + classification), unsupervised clustering (KMeans), and dimensionality reduction (PCA).
 
+[[Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m8SSyW4bHE24XM7iE7CmiHegTZj1Sfvb)
 ---
 
 ## The Finding
